@@ -328,7 +328,7 @@ activity is strictly discouraged.
 
 <p align="center">
 
-[![License](https://img.shields.io/badge/LICENSE-MIT-ff0080?style=for-the-badge\&logo=opensourceinitiative\&logoColor=white)](LICENSE)
+[![License](https://img.shields.io/badge/LICENSE-Apache-ff0080?style=for-the-badge\&logo=opensourceinitiative\&logoColor=white)](LICENSE)
 
 </p>
 
